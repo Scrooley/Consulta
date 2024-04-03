@@ -17,7 +17,7 @@ Projeto sobre cadastro de consulta. <br/>
 <br>
 
 <p align="center">
-  <img alt="consulta" src=".github/preview.png" width="37%">
+  <img alt="consulta" src=".github/preview.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
